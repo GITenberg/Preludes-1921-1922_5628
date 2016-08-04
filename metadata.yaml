@@ -1,0 +1,25 @@
+_repo: Preludes-1921-1922_5628
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Drinkwater, John
+    birthdate: 1882
+    deathdate: 1937
+    gutenberg_agent_id: '1820'
+    url: http://www.gutenberg.org/2009/agents/1820
+    wikipedia: http://en.wikipedia.org/wiki/John_Drinkwater
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5628'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 20th century'
+- GITenberg
+title: Preludes 1921-1922
+url: http://www.gutenberg.org/ebooks/5628
